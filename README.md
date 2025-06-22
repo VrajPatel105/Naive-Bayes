@@ -9,3 +9,5 @@ Naive Bayes:
 - **Gaussian Method**
 
 - **Multinomial Naive Bayes**
+- 
+- **Bernouli Naive Bayes**
