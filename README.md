@@ -11,3 +11,4 @@ Naive Bayes:
 - **Multinomial Naive Bayes**
   
 - **Bernouli Naive Bayes**
+  
