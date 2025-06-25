@@ -12,3 +12,4 @@ Naive Bayes:
   
 - **Bernouli Naive Bayes**
   
+ 
